@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <element array="true">
+    <Mercadona>
+      <direccion>C. Perú, s/n</direccion>
+      <población>Zafra</población>
+      <cp>06300 </cp>
+      <geolocalizacion>
+        <latitud>15 344 56</latitud>
+        <longitud>19 454 40</longitud>
+      </geolocalizacion>
+      <Leche>
+        <tipo>vaca</tipo>
+        <modelos>
+          <nombre>leche desnatada </nombre>
+          <precio>0.67</precio>
+          <oferta boolean="true">true</oferta>
+          <fechaInicioOferta null="true"/>
+          <fechaFinOferta null="true"/>
+          <stock>54</stock>
+        </modelos>
+        <modelos>
+          <nombre>Leche semidesnatada asturiana</nombre>
+          <precio>1,35</precio>
+          <oferta boolean="true">false</oferta>
+          <fechaInicioOferta>01/11/19</fechaInicioOferta>
+          <fechaFinOferta>13/11/19</fechaFinOferta>
+          <stock>36</stock>
+        </modelos>
+      </Leche>
+      <Leche>
+        <tipo>leche de almendra</tipo>
+        <modelos>
+          <nombre>Lecha almendra 1l</nombre>
+          <precio>1,75</precio>
+          <oferta boolean="true">false</oferta>
+          <fechaInicioOferta null="true"/>
+          <fechaFinOferta null="true"/>
+          <stock>25</stock>
+        </modelos>
+        <modelos>
+          <nombre>Leche almendra sin azucar</nombre>
+          <precio>1,40</precio>
+          <oferta boolean="true">false</oferta>
+          <fechaInicioOferta null="true"/>
+          <fechaFinOferta null="true"/>
+          <stock>19</stock>
+        </modelos>
+      </Leche>
+      <Leche>
+        <tipo>LECHE BIO</tipo>
+        <modelos>
+          <nombre>Leche de los Alpes entera bio ASANA 1 l</nombre>
+          <precio>1,23</precio>
+          <oferta boolean="true">false</oferta>
+          <fechaInicioOferta null="true"/>
+          <fechaFinOferta null="true"/>
+          <stock>6</stock>
+        </modelos>
+        <modelos>
+          <nombre>Leche semidesnatada de vaca con alimentación ecológica</nombre>
+          <precio>1,08</precio>
+          <oferta boolean="true">false</oferta>
+          <fechaInicioOferta null="true"/>
+          <fechaFinOferta null="true"/>
+          <stock>3</stock>
+        </modelos>
+      </Leche>
+    </Mercadona>
+    <spar>
+      <direccion>Av. San Miguel</direccion>
+      <población>Zafra</población>
+      <cp>06300</cp>
+      <geolocalizacion>
+        <latitud>38 427 0526</latitud>
+        <longitud>16 417 93 17</longitud>
+      </geolocalizacion>
+      <Leche>
+        <tipo>vaca</tipo>
+        <modelos>
+          <nombre>Leche sin latosa </nombre>
+          <precio>1,20</precio>
+          <oferta boolean="true">false</oferta>
+          <fechaInicioOferta null="true"/>
+          <fechaFinOferta null="true"/>
+          <stock>40</stock>
+        </modelos>
+        <modelos>
+          <nombre>Leche semi Asturiana</nombre>
+          <precio>1,00</precio>
+          <oferta boolean="true">true</oferta>
+          <fechaInicioOferta null="true"/>
+          <fechaFinOferta null="true"/>
+          <stock>25</stock>
+        </modelos>
+      </Leche>
+      <Leche>
+        <tipo>leche de almendra</tipo>
+        <modelos array="true">
+          <nombre>Leche de almendras sin azucar 1l</nombre>
+          <precio>1.25</precio>
+          <oferta boolean="true">false</oferta>
+          <fechaInicioOferta>08/11/19</fechaInicioOferta>
+          <fechaFinOferta>21/11/19</fechaFinOferta>
+          <stock>30</stock>
+        </modelos>
+      </Leche>
+    </spar>
+  </element>
+</root>

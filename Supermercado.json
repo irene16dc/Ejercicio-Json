@@ -1,0 +1,123 @@
+[
+    {
+        "Mercadona": {
+            "direccion": "C. Perú, s/n",
+            "población": "Zafra",
+            "cp": "06300 ",
+            "geolocalizacion": {
+                "latitud": "15 344 56",
+                "longitud": "19 454 40"
+            },
+            "Leche": [
+                {
+                    "tipo": "vaca",
+                    "modelos": [
+                        {
+                            "nombre": "leche desnatada ",
+                            "precio": "0.67",
+                            "oferta": true,
+                            "fechaInicioOferta": null,
+                            "fechaFinOferta": null,
+                            "stock": "54"
+                        },
+                        {
+                            "nombre": "Leche semidesnatada asturiana",
+                            "precio": "1,35",
+                            "oferta": false,
+                            "fechaInicioOferta": "01/11/19",
+                            "fechaFinOferta": "13/11/19",
+                            "stock": "36"
+                        }
+                    ]
+                },
+                {
+                    "tipo": "leche de almendra",
+                    "modelos": [
+                        {
+                            "nombre": "Lecha almendra 1l",
+                            "precio": "1,75",
+                            "oferta": false,
+                            "fechaInicioOferta": null,
+                            "fechaFinOferta": null,
+                            "stock": "25"
+                        },
+                        {
+                            "nombre": "Leche almendra sin azucar",
+                            "precio": "1,40",
+                            "oferta": false,
+                            "fechaInicioOferta": null,
+                            "fechaFinOferta": null,
+                            "stock": "19"
+                        }
+                    ]
+                },
+                {
+                    "tipo": "LECHE BIO",
+                    "modelos": [
+                        {
+                            "nombre": "Leche de los Alpes entera bio ASANA 1 l",
+                            "precio": "1,23",
+                            "oferta": false,
+                            "fechaInicioOferta": null,
+                            "fechaFinOferta": null,
+                            "stock": "6"
+                        },
+                        {
+                            "nombre": "Leche semidesnatada de vaca con alimentación ecológica",
+                            "precio": "1,08",
+                            "oferta": false,
+                            "fechaInicioOferta": null,
+                            "fechaFinOferta": null,
+                            "stock": "3"
+                        }
+                    ]
+                }
+            ]
+        },
+        "spar": {
+            "direccion": "Av. San Miguel",
+            "población": "Zafra",
+            "cp": "06300",
+            "geolocalizacion": {
+                "latitud": "38 427 0526",
+                "longitud": "16 417 93 17"
+            },
+            "Leche": [
+                {
+                    "tipo": "vaca",
+                    "modelos": [
+                        {
+                            "nombre": "Leche sin latosa ",
+                            "precio": "1,20",
+                            "oferta": false,
+                            "fechaInicioOferta": null,
+                            "fechaFinOferta": null,
+                            "stock": "40"
+                        },
+                        {
+                            "nombre": "Leche semi Asturiana",
+                            "precio": "1,00",
+                            "oferta": true,
+                            "fechaInicioOferta": null,
+                            "fechaFinOferta": null,
+                            "stock": "25"
+                        }
+                    ]
+                },
+                {
+                    "tipo": "leche de almendra",
+                    "modelos": [
+                        {
+                            "nombre": "Leche de almendras sin azucar 1l",
+                            "precio": "1.25",
+                            "oferta": false,
+                            "fechaInicioOferta": "08/11/19",
+                            "fechaFinOferta": "21/11/19",
+                            "stock": "30"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+]
